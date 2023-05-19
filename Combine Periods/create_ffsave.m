@@ -1,7 +1,7 @@
 function FFsave = ffsave_create
 
     % Initializing variable
-    FFsave = struct;
+    FFsave = struct;%%
     % Header
     FFsave.ID = [];
     FFsave.site = [];         % Site name
